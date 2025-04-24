@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885757608419",
+    "project_id": "trapp-e915b",
+    "storage_bucket": "trapp-e915b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885757608419:android:68350d54dcc64c362c20d6",
+        "android_client_info": {
+          "package_name": "com.example.trapmouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQwOeB_JEegypcDw8vVjCHFFAUuaEsMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
