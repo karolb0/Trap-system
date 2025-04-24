@@ -1,4 +1,20 @@
 # trapmouse
+# TrapSyncApp - Updated Version
+
+Flutter app to manage smart traps. This version includes:
+
+- Login with Firebase
+- Trap activity log
+- Interactive map of drop-off locations
+- Technical support section
+- Editable user profile
+
+## How to run the app
+
+```bash
+flutter pub get
+flutter run
+
 
 A new Flutter project.
 
